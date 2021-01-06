@@ -7,7 +7,7 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "aws-sdk": "^2.686.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "grommet": "^2.13.0",
     "grommet-icons": "^4.4.0",
     "react": "^16.13.1",
